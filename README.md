@@ -4,7 +4,7 @@ This is a Chrome/Edge extension that can bypass Sparx Maths bookwork checks by h
 
 Credit and thanks to **[Sintco](https://github.com/SintcoLTD)** for the basis for this code!
 
-# Install
+# :information_source: Install
 
 Click on the **latest** release (right hand side of the screen -> ) and download the source in zip form (top of the Assets dropdown) and extract it to a folder, then open up Chrome and open the url [chrome://extensions](chrome://extensions) in your browser. Click the "Load Unpacked" button in the top left of the tab and navigate to the folder you extracted the source to, and select the folder "extension" and next time you load up Sparx you will be able to access all the features!
 
